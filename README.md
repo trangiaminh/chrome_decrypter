@@ -2,6 +2,7 @@
 Chrome Decrypter (Passwords & Cookies)
 
 ## Python v3
+Python 3.8.1 included in this source `python-3.8.1-amd64.7z`. Or you can download and install:
 - Windows x86: https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe | https://www.python.org/ftp/python/3.8.3/python-3.8.3-embed-win32.zip
 - Windows x64: https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe | https://www.python.org/ftp/python/3.8.3/python-3.8.3-embed-amd64.zip
 - Install pip for python embedded distribution on windows: https://www.christhoung.com/2018/07/15/embedded-python-windows/
